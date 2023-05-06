@@ -2,7 +2,7 @@ package com.fischer.msu.photogallery
 
 import com.fischer.msu.photogallery.api.FlickrApi
 import com.fischer.msu.photogallery.api.GalleryItem
-import com.squareup.moshi.Moshi
+//import com.squareup.moshi.Moshi
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 //import retrofit2.converter.scalars.ScalarsConverterFactory
